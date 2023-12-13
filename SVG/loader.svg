@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#2B388F;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:12.0799,12.0799;}
+	.st3{fill:#26A9E0;stroke:#231F20;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:#E6E7E8;stroke:#231F20;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<g transform="translate(960.38 540.42)">
+	<circle class="st3" cx="0" cy="0" r="112.5"/>
+	<circle class="st2" cx="0" cy="0" r="150">
+		<animateTransform attributeName="transform"
+				attributeType="XML"
+				type="rotate"
+				from="0 0 0"
+				to="360 0 0"
+				dur="5s"
+				repeatCount="indefinite" />
+	</circle>
+	<g>
+		<path class="st4" d="M-42.33,30L-42.33,30c-1.42,0-2.56-1.15-2.56-2.56v-44.82c0-1.38,1.12-2.5,2.5-2.5l0,0
+			c1.38,0,2.5,1.12,2.5,2.5v45.18C-39.89,28.85-40.98,30-42.33,30z">
+				<animateTransform ID="jhjfjhg"
+					attributeName="transform"
+					attributeType="XML"
+					type="translate"
+					values="0,15;0,-15;0,15"
+					dur="1s"
+					repeatCount="indefinite" />
+		</path>
+		<path class="st4" d="M-21.06,30L-21.06,30c-1.42,0-2.56-1.15-2.56-2.56v-44.82c0-1.38,1.12-2.5,2.5-2.5l0,0
+			c1.38,0,2.5,1.12,2.5,2.5v45.18C-18.61,28.85-19.7,30-21.06,30z">
+			<animateTransform ID="jhjfjhg"
+					attributeName="transform"
+					attributeType="XML"
+					type="translate"
+					begin=".2"
+					values="0,15;0,-15;0,15"
+					dur="1s"
+					repeatCount="indefinite" />
+		</path>
+			
+		<path class="st4" d="M0.18,30L0.18,30c-1.42,0-2.56-1.15-2.56-2.56v-44.82c0-1.38,1.12-2.5,2.5-2.5l0,0
+			c1.38,0,2.5,1.12,2.5,2.5v45.18C2.62,28.85,1.53,30,0.18,30z">
+			<animateTransform ID="jhjfjhg"
+					attributeName="transform"
+					attributeType="XML"
+					type="translate"
+					begin=".4"
+					values="0,15;0,-15;0,15"
+					dur="1s"
+					repeatCount="indefinite" />
+		</path>
+		<path class="st4" d="M39.73,30L39.73,30c-1.42,0-2.56-1.15-2.56-2.56v-44.82c0-1.38,1.12-2.5,2.5-2.5l0,0
+			c1.38,0,2.5,1.12,2.5,2.5v45.18C42.17,28.85,41.08,30,39.73,30z">
+			<animateTransform ID="jhjfjhg"
+					attributeName="transform"
+					attributeType="XML"
+					type="translate"
+					begin=".6"
+					values="0,15;0,-15;0,15"
+					dur="1s"
+					repeatCount="indefinite" />
+		</path>
+		<path class="st4" d="M18.47,30L18.47,30c-1.42,0-2.56-1.15-2.56-2.56v-44.82c0-1.38,1.12-2.5,2.5-2.5l0,0
+			c1.38,0,2.5,1.12,2.5,2.5v45.18C20.91,28.85,19.82,30,18.47,30z">
+			<animateTransform ID="jhjfjhg"
+					attributeName="transform"
+					attributeType="XML"
+					type="translate"
+					begin=".8"
+					values="0,15;0,-15;0,15"
+					dur="1s"
+					repeatCount="indefinite" />
+		</path>
+
+	</g>
+</g>
+</svg>
+
+
